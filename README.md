@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 &emsp;&emsp;
 ![Go](https://img.shields.io/badge/-go-yellow?style=flat-square&logo=go)
 ![React](https://img.shields.io/badge/-React-pink?style=flat-square&logo=React)
-
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-blue?style=flat-square&logo=Tailwind)
 
 
 🧠 技能
