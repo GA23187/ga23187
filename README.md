@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 打字特效 -->
-<div align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎光临!&center=true&size=27"> </a> </h1>
+<div align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎光临!&center=true&size=27&width=450"> </a> </h1>
 <!-- GitHub 信息统计 -->
 <div align="center"> <img src="https://metrics.lecoq.io/ga23187?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!-- GitHub 使用语言统计 -->
