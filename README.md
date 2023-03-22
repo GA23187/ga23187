@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- img -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- svg -->
 <div style="display: flex;">
